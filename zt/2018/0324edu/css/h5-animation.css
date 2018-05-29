@@ -1,0 +1,90 @@
+
+/*m-sect1*/
+.m-sect1 .m-s1{
+    -webkit-animation:fadeInLeft .5s .2s ease both;
+    -moz-animation:fadeInLeft .5s .2s ease both;
+}
+.m-sect1 .m-s2{
+    -webkit-animation:fadeInLeft .5s .5s ease both;
+    -moz-animation:fadeInLeft .5s .5s ease both;
+}
+.m-sect1 .m-s3{
+    -webkit-animation:fadeInLeft 1s .9s ease both;
+    -moz-animation:fadeInLeft 1s .9s ease both;
+}
+.m-sect1 .m-s4{
+    -webkit-animation:fadeInLeft 1s 1.2s ease both;
+    -moz-animation:fadeInLeft 1s 1.2s ease both;
+}
+.m-sect1 .m-s5{
+    -webkit-animation:fadeInLeft 1s 2.0s ease both;
+    -moz-animation:fadeInLeft 1s 2.0s ease both;
+}
+.m-sect1 .m-s6{
+    -webkit-animation:rotateInDownRight 1s 3s ease both;
+    -moz-animation:rotateInDownRight 1s 3s ease both;
+}
+/*m-sect2*/
+.m-sect2 .m-s1{
+    -webkit-animation:fadeInLeft .5s .2s ease both;
+    -moz-animation:fadeInLeft .5s .2s ease both;
+}
+.m-sect2 .m-s2{
+    -webkit-animation:fadeInLeft .5s .8s ease both;
+    -moz-animation:fadeInLeft .5s .8s ease both;
+}
+.m-sect2 .m-s3{
+    -webkit-animation:fadeInLeft 1s 1.4s ease both;
+    -moz-animation:fadeInLeft 1s 1.4s ease both;
+}
+.m-sect2 .m-s4{
+    -webkit-animation:fadeInLeft 1s 1.8s ease both;
+    -moz-animation:fadeInLeft 1s 1.8s ease both;
+}
+.m-sect2 .m-s5{
+    -webkit-animation:fadeInLeft 1s 2.0s ease both;
+    -moz-animation:fadeInLeft 1s 2.0s ease both;
+}
+
+@-webkit-keyframes flipInX{
+    0%{-webkit-transform:perspective(400px) rotateX(90deg); opacity:0}
+    40%{-webkit-transform:perspective(400px) rotateX(-10deg)}
+    70%{-webkit-transform:perspective(400px) rotateX(10deg)}
+    100%{-webkit-transform:perspective(400px) rotateX(0deg); opacity:1}
+}
+@-moz-keyframes flipInX{
+    0%{-moz-transform:perspective(400px) rotateX(90deg);
+        opacity:0}
+    40%{-moz-transform:perspective(400px) rotateX(-10deg)}
+    70%{-moz-transform:perspective(400px) rotateX(10deg)}
+    100%{-moz-transform:perspective(400px) rotateX(0deg);
+        opacity:1}
+}
+@-webkit-keyframes fadeInLeft{
+    0%{opacity:0;
+        -webkit-transform:translateX(-20px)}
+    100%{opacity:1;
+        -webkit-transform:translateX(0)}
+}
+@-moz-keyframes fadeInLeft{
+    0%{opacity:0;
+        -moz-transform:translateX(-20px)}
+    100%{opacity:1;
+        -moz-transform:translateX(0)}
+}
+@-webkit-keyframes rotateInDownRight{
+    0%{-webkit-transform-origin:right bottom;
+        -webkit-transform:rotate(-90deg);
+        opacity:0}
+    100%{-webkit-transform-origin:right bottom;
+        -webkit-transform:rotate(0);
+        opacity:1}
+}
+@-moz-keyframes rotateInDownRight{
+    0%{-moz-transform-origin:right bottom;
+        -moz-transform:rotate(-90deg);
+        opacity:0}
+    100%{-moz-transform-origin:right bottom;
+        -moz-transform:rotate(0);
+        opacity:1}
+}

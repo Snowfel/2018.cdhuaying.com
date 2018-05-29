@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>2018春季·国际教育展 - 华樱出国</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="css/swiper.min.css">
+    <link rel="stylesheet" href="css/h5.css?201803051541">
+    <link rel="stylesheet" href="css/h5-animation.css?201803051541">
+    <link rel="stylesheet" href="/Public/Style/font-awesome/4.5.0/css/font-awesome.min.css"/>
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?42d7ad8e490f91eef61abf055057d5b5";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body>
+<!-- Swiper -->
+<article class="swiper-container">
+    <div class="swiper-wrapper">
+        <section class="swiper-slide">
+            <div class="m-sect1">
+                <div class="m-s1"></div>
+                <div class="m-s2">四川的家长和同学<br>请注意<br>这是一次专属于您的</div>
+                <div class="m-s3"></div>
+                <div class="m-s4">你是否关注过这些留学问题？</div>
+                <div class="m-s5">
+                    <ul>
+                        <li>留学要花多少费用？需要什么条件？</li>
+                        <li>怎么增加留学录取几率？如何规划？</li>
+                        <li>英语弱，怎么提升？</li>
+                        <li>能否同时兼顾高考、留学申请？</li>
+                        <li>海归就业、创业，有哪些政策利好？</li>
+                        <li>留学后怎么移民？</li>
+                    </ul>
+                </div>
+                <div class="m-s6"></div>
+            </div>
+        </section>
+        <section class="swiper-slide">
+            <div class="m-sect2" style="display: none;">
+                <div class="m-s1">您的顾虑与疑问，我们都懂<br>适逢3月开学季<br><hr></div>
+                <div class="m-s2"><div class="u-1">华樱出国携手</div><div class="u-2">前哈佛大中华区招生官</div><div class="u-3">及众多资深教育专家、优秀留学生</div></div>
+                <div class="m-s3">为您带来一场专属留学盛宴</div>
+                <div class="m-s4">成都春季教育展</div>
+                <div class="m-s5"></div>
+            </div>
+        </section>
+        <section class="swiper-slide">
+            <div class="m-sect3"></div>
+        </section>
+        <section class="swiper-slide">
+            <div class="m-sect4"></div>
+        </section>
+        <section class="swiper-slide">
+            <div class="m-sect5"></div>
+        </section>
+        <section class="swiper-slide">
+            <div class="m-sect6"></div>
+        </section>
+        <section class="swiper-slide">
+            <div class="m-sect7"></div>
+        </section>
+        <section class="swiper-slide">
+            <div class="m-sect8">
+                <div class="m-s4">
+                    <div><input type="text" id="uname" name="uname" value="" placeholder="姓名" class="text"></div>
+                    <div><input type="text" id="umobile" name="umobile" value="" placeholder="电话" class="text"></div>
+                    <div><input type="text" id="ctry" name="ctry" value="" placeholder="意向留学国家" class="text"></div>
+                    <div class="submit" id="ajax_submit_form">立即预约</div>
+                    <div class="note">华樱承诺：将对您的个人信息严格保密</div>
+                    <div class="advise"><a href="javascript:void(0)" onclick="_MEIQIA('showPanel')"><i class="fa fa-phone-square"></i> 还有疑问？点击此处，立即咨询！</a></div>
+                </div>
+            </div>
+        </section>
+        <section class="swiper-slide">
+            <div class="m-sect9"></div>
+        </section>
+    </div>
+    <!-- Add Pagination -->
+    <div class="swiper-pagination"></div>
+</article>
+
+<script src="js/jquery-1.10.2.min.js"></script>
+<script src="js/swiper.min.js"></script>
+<script src="js/h5.js?201803051541"></script>
+<script>
+    $(function () {
+        $('#ajax_submit_form').click(function () {
+            var dataArr = {
+                uTitle: '2018新春教育展-H5',
+                uName: $("#uname").val(),
+                uMobile: $("#umobile").val(),
+                Wt_guojia: $("#ctry").val(),
+
+                uSex: '',
+                uPhone: '',
+                uQQ: '',
+                uEmail: '',
+                uCity: '',
+                Cr_xueli: '',
+                Wt_xueli: '',
+                Cr_yusuan: '',
+                Wt_shijian: '',
+                Yx_guojia: '',
+                Cr_xuexiao: '',
+                Wt_xuexiao: '',
+                Cr_zhuanye: '',
+                Wt_zhuanye: '',
+                uIelts: '',
+                uToefl: '',
+                uSat: '',
+                uGmat: '',
+                uGre: '',
+                uJtest: '',
+                Wt_more: '',
+                uGrade: '',
+                uWechat: '',
+                uOther: '',
+                uOther_check: '',
+                SourceLink: window.location.href,
+                Source: '华樱官网'
+            };
+            if (!dataArr.uName) {
+                alert('请填写姓名！');
+                return false;
+            }
+            if (!dataArr.uMobile) {
+                alert('请填写电话！');
+                return false;
+            }
+
+            $.ajax({
+                url: "/Webhandler/2016_02_19_OverallData.ashx?t=send",
+                type: "post",
+                async: true,
+                data: dataArr,
+                success: function (e) {
+                    alert(e)
+                },
+                error: function (jqXHR) {
+                }
+            });
+        });
+    });
+</script>
+
+<script type='text/javascript'>
+    (function(m, ei, q, i, a, j, s) {
+        m[i] = m[i] || function() {
+            (m[i].a = m[i].a || []).push(arguments)
+        };
+        j = ei.createElement(q),
+            s = ei.getElementsByTagName(q)[0];
+        j.async = true;
+        j.charset = 'UTF-8';
+        j.src = 'https://static.meiqia.com/dist/meiqia.js?_=t';
+        s.parentNode.insertBefore(j, s);
+    })(window, document, 'script', '_MEIQIA');
+    _MEIQIA('entId', 23423);
+</script>
+</body>
+</html>

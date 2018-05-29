@@ -1,0 +1,161 @@
+body{
+    font-family: "Microsoft YaHei",Arial,Helvetica,sans-serif,"宋体";
+}
+.container {
+    max-width: 1020px;
+}
+
+a{
+    color: #000000;
+}
+a:hover{
+    color: #ff7721;
+}
+
+.bg-maincolor{
+    background: #ff7721;
+}
+a.bg-maincolor{
+
+}
+.text-maincolor {
+    color: #ff7721;
+}
+a.text-maincolor:hover {
+    color: #ff9f08;
+}
+/*
+ * Custom translucent site header
+ */
+
+.site-header {
+    background-color: #5d5d5d;
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    backdrop-filter: saturate(180%) blur(20px);
+}
+.site-header a {
+    color: #fff;
+    transition: ease-in-out color .15s;
+}
+.site-header a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+/*
+ * Extra utilities
+ */
+
+.border-top { border-top: 1px solid #e5e5e5; }
+.border-bottom { border-bottom: 1px solid #e5e5e5; }
+
+.box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
+
+.flex-equal > * {
+    -ms-flex: 1;
+    -webkit-box-flex: 1;
+    flex: 1;
+}
+@media (min-width: 768px) {
+    .flex-md-equal > * {
+        -ms-flex: 1;
+        -webkit-box-flex: 1;
+        flex: 1;
+    }
+}
+.overflow-hidden { overflow: hidden; }
+
+
+.blog-header {
+    line-height: 1;
+    border-bottom: 1px solid #e5e5e5;
+}
+.blog-header-logo {
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+    font-size: 2.25rem;
+}
+.blog-header-logo:hover {
+    text-decoration: none;
+}
+.nav-scroller {
+    position: relative;
+    z-index: 2;
+    height: 2.75rem;
+    overflow-y: hidden;
+}
+.nav-scroller ul {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    padding-bottom: 1rem;
+    margin-top: -1px;
+    overflow-x: auto;
+    text-align: center;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+}
+.nav-scroller ul li{
+    text-align: center;
+    display: inline-block;
+}
+.nav-scroller ul li a{
+
+}
+.nav-scroller ul>li + li::before {
+    content: "/";
+    border-left:1px solid #333;
+    margin-left: 1px;
+    margin-right: 3px;
+    color: #fff;
+    border-bottom: 1px solid #FFF;
+}
+.btn-main {
+    background: #ff7721;
+}
+
+
+
+.text-with-hr {
+    text-align: center;
+    position: relative;
+    z-index: 2;
+}
+/*
+横线，并通过z-index：-1将or附近的横线遮盖住
+*/
+.text-with-hr:before {
+    position: absolute;
+    content: '';
+    top: 25px;
+    left: 0;
+    width: 100%;
+    border-bottom: 2px solid #d4d4d4;
+    z-index: -1;
+}
+.text-with-hr span {
+    display: inline-block;
+    background: white;
+    padding: 5px 50px 5px 50px;
+}
+
+.u-weixin{
+    background: url("/public/images/icon/weixin16.png") no-repeat 0 4px;
+    text-indent: 6px;
+}
+.u-sina{
+    background: url("/public/images/icon/sina16.png") no-repeat 0 4px;
+    text-indent: 6px;
+}
+.u-qq{
+    background: url("/public/images/icon/qq16.png") no-repeat 0 4px;
+    text-indent: 6px;
+}
+
+.bd-footer{
+    background: #cbc2c4; /*#e6e6e6*/
+}
+.bd-footer a{
+    /*color: #6c757d ;*/
+}

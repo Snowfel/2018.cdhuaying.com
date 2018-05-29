@@ -1,0 +1,1016 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title data-title="">2018春季·国际教育展 - 华樱出国 </title>
+    <link rel="stylesheet" href="/Public/Style/font-awesome/4.5.0/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="main.css">
+    <script>
+        checkhHtml5();
+        function checkhHtml5() {
+            if (typeof(Worker) !== "undefined") { } else { /*alert("不支持HTML5");*/ } }
+    </script>
+    <script src="/Public/Style/js/jquery-2.1.4.min.js"></script>
+</head>
+<body>
+<div class="g-nav">
+    <div>
+    <ul>
+        <li><a href="/liuxue/" target="_blank">留学首页</a></li>
+        <li><a href="/liuxue/meiguo/" target="_blank">美国留学</a></li>
+        <li><a href="/liuxue/jianada/" target="_blank">加拿大留学</a></li>
+        <li><a href="/liuxue/yingguo/" target="_blank">英国留学</a></li>
+        <li><a href="/liuxue/faguo/" target="_blank">法国留学</a></li>
+        <li><a href="/liuxue/aodaliya/" target="_blank">澳大利亚留学</a></li>
+        <li><a href="/liuxue/xinxilan/" target="_blank">新西兰留学</a></li>
+        <li><a href="/liuxue/riben/" target="_blank">日本留学</a></li>
+        <li><a href="/liuxue/hanguo/" target="_blank">韩国留学</a></li>
+        <li><a href="/liuxue/xianggang/" target="_blank">求学香港</a></li>
+    </ul>
+    </div>
+</div>
+<div class="g-header">
+    <div class="m-header">
+        <div class="u-content">
+            <span>
+                <i class="fa fa-calendar"></i>
+                <span>日期 | 3月24日 13:00</span>
+            </span>
+                <span>
+                <i class="fa fa-map-marker"></i>
+                <span>地点 | 仁和春天酒店三楼宴会厅</span>
+            </span>
+        </div>
+    </div>
+</div>
+<div class="g-article">
+    <!--div class="g-sect-time">
+        <h1>距2018春季国际教育展还有</h1>
+        <h2><span class="u-day"></span>天<span class="u-day"></span>时<span class="u-day"></span>分<span class="u-day"></span>秒</h2>
+        <h4>抓紧时间，赶紧报名，发现留学新方向！</h4>
+        <div><span class="u-btn">点击预约报名》</span></div>
+    </div-->
+
+    <div class="g-sect-bonus" id="g-sect1">
+        <h1>抓住留学红利，就看这些！</h1>
+        <div class="m-block">
+            <div class="u-content">
+                <h2>情报</h2>
+                <ul>
+                    <li>解读哈佛等世界名校招生法则</li>
+                    <li>获取全球近4000院校最新招生资讯</li>
+                    <li>分析海归发展大数据，解决选专业难题</li>
+                    <li>海归落户、创业资金支持等相关政策解读</li>
+                </ul>
+            </div>
+            <div class="u-btn"><a href="javascript:void(0)" onclick="_MEIQIA('showPanel')">我想获取这些情报&nbsp;<i class="fa fa-arrow-circle-right"></i></a></div>
+        </div>
+        <div class="m-block">
+            <div class="u-content">
+                <h2>人脉</h2>
+                <ul>
+                    <li>优秀毕业生、海归精英云集，分享留学、就业与创业（诚友汇）</li>
+                    <li>5000+优秀留学家庭汇集，资源互换（西南留学家庭俱乐部）</li>
+                    <li>我们都从这里，走向世界——树德中学国际部校友会成立仪式</li>
+                </ul>
+            </div>
+            <div class="u-btn"><a href="javascript:void(0)" onclick="_MEIQIA('showPanel')">我想接触这些人脉&nbsp;<i class="fa fa-arrow-circle-right"></i></a></div>
+        </div>
+        <div class="m-block">
+            <div class="u-content">
+                <h2>资源</h2>
+                <ul>
+                    <li>全球近4000关系良好的合作院校资源</li>
+                    <li>多年申请经验的顾问老师提供一对一留学规划</li>
+                    <li>外语、背景提升、留学申请、职业规划等一站式留学服务</li>
+                    <li>众多国内外名企实习、就业推荐</li>
+                </ul>
+            </div>
+            <div class="u-btn"><a href="javascript:void(0)" onclick="_MEIQIA('showPanel')">我想拥有这些资源&nbsp;<i class="fa fa-arrow-circle-right"></i></a></div>
+        </div>
+    </div>
+
+    <div class="g-sect-harvard" id="g-sect2">
+        <div class="m-intro">
+            <h1>前哈佛招生官来啦</h1>
+            <div class="m-block">
+                <div class="u-name"><span>Sally Champagne</span></div>
+                <ul>
+                    <li>哈佛前大中华区招生官</li>
+                    <li>华樱“菁英计划”海外升学顾问导师</li>
+                    <li>21年哈佛招生经历</li>
+                    <li>评估过大约三万分申请，看过的申请文书超过九万份，其中包括我们所熟知的“哈佛女孩“刘亦婷、NBA新星林书豪、脸书创始人扎克伯格等。</li>
+                </ul>
+                <div class="u-btn"><a href="javascript:void(0)" onclick="_MEIQIA('showPanel')">立即获取面试机会！&nbsp;<i class="fa fa-arrow-circle-right"></i></a></div>
+            </div>
+        </div>
+        <ul class="m-gain">
+            <li><a href="javascript:void(0)" onclick="_MEIQIA('showPanel')"><i class="fa fa-circle"></i> 解析世界名校招生"偏好"</a></li>
+            <li><a href="javascript:void(0)" onclick="_MEIQIA('showPanel')"><i class="fa fa-circle"></i> 获取面对面提问机会</a></li>
+            <li class="u-imp"><a href="javascript:void(0)" onclick="_MEIQIA('showPanel')"><i class="fa fa-circle"></i> 华樱"菁英计划"现场招生</a></li>
+        </ul>
+    </div>
+
+    <div class="g-sect-question" id="g-sect3">
+        <div class="m-block">
+            <h1>有以下疑问的你，不来就真的晚了！</h1>
+            <ul class="m-content">
+                <li>
+                    <div>低龄</div>
+                    <div>低龄留学，对孩子到底有什么好处？</div>
+                </li>
+                <li>
+                    <div>条件</div>
+                    <div>出国留学，具体需要哪些条件？</div>
+                </li>
+                <li>
+                    <div>高考</div>
+                    <div>想高考、留学两手抓，我应该怎么准备？</div>
+                </li>
+                <li>
+                    <div>时机</div>
+                    <div>到底是中学、本科还是研究生出国好？</div>
+                </li>
+                <li>
+                    <div>提升</div>
+                    <div>参加哪些活动才真正有助于我的申请？</div>
+                </li>
+            </ul>
+            <ul class="m-content">
+                <li>
+                    <div>国家</div>
+                    <div>如何选择适合家庭和孩子的留学国家？</div>
+                </li>
+                <li>
+                    <div>费用</div>
+                    <div>留学预算不多，哪些国家留学价格低、品质高？</div>
+                </li>
+                <li>
+                    <div>文书</div>
+                    <div>留学DIY，文书方面我需要注意些什么？</div>
+                </li>
+                <li>
+                    <div>移民</div>
+                    <div>想通过留学移民，我该怎么选择？如何实现？</div>
+                </li>
+                <li>
+                    <div>海归</div>
+                    <div>海归回国的我想创业，能得到政府哪些支持？</div>
+                </li>
+            </ul>
+
+        </div>
+        <div class="u-btn"><a href="javascript:void(0)" onclick="_MEIQIA('showPanel')">马上<br>了解</a></div>
+    </div>
+
+    <div class="g-sect-guide" id="g-sect4">
+        <h1>逛展指南——专属讲座全解析</h1>
+        <div class="m-block">
+            <div class="m-title">
+                <h2>留学申请<br>规划专场</h2>
+                <div class="u-btn"><a href="javascript:void(0)" onclick="_MEIQIA('showPanel')">是否有适合我的讲座内容？&nbsp;<i class="fa fa-arrow-circle-right"></i></a></div>
+            </div>
+            <div class="m-content">
+                <div>
+                    <div class="u-icon u-icon-1"></div>
+                    <h3>2019美国本科申请规划指导专场——<br>华樱“菁英计划”现场招募</h3>
+                    <div>主讲人：Sally Champagne</div>
+                    <div>哈佛前大中华区招生官， 21年哈佛招生经历，华樱“菁英计划”海外升学顾问导师</div>
+                </div>
+                <div>
+                    <div class="u-icon u-icon-2"></div>
+                    <h3>课外活动专场——<br>如何高效地做活动规划，有助于提高名校录取率？</h3>
+                    <div>主讲人：Chris Lee</div>
+                    <div>资深活动指导老师，指导超过200名学生，成功帮助学生申请到宾夕法尼亚大学、康奈尔大学、约翰霍普金斯大学等众多世界名校</div>
+                </div>
+                <div>
+                    <div class="u-icon u-icon-3"></div>
+                    <h3>美国研究生申请规划、文书专场——从TOP50到TOP30，仅仅是一份文书的差别！</h3>
+                    <div>主讲人：Clare Liu</div>
+                    <div>华樱出国美国研究生申请专家顾问，众多名校成功案例：美国约翰霍普金斯大学、南加州大学、东北大学，英国圣安德鲁斯大学、伦敦大学学院等。</div>
+                </div>
+                <div>
+                    <div class="u-icon u-icon-4"></div>
+                    <h3>低龄留学私人定制专场——<br>低龄留学应该如何规划，如何选校？</h3>
+                    <div>主讲人：Rachel Zhang</div>
+                    <div>美国低龄留学专家顾问，从事教育行业近10年，精通美国低龄学生留学申请与签证规划。</div>
+                </div>
+                <div>
+                    <div class="u-icon u-icon-1"></div>
+                    <h3>新西兰留学申请专场——<br>Why New Zealand新西兰最新留学新政解析</h3>
+                    <div>主讲人：Fangmin Ye</div>
+                    <div>新西兰驻华大使馆教育处高级教育主任</div>
+                </div>
+                <div>
+                    <div class="u-icon u-icon-2"></div>
+                    <h3>英国申请规划专场——<br>英国留学大数据！解析留学专业选择难题</h3>
+                    <div>主讲人：Jerky Liu</div>
+                    <div>英国院校数据库分析师，对中国留学生留英的选校、选专业、实习与就业情况有深入研究</div>
+                </div>
+                <div>
+                    <div class="u-icon u-icon-3"></div>
+                    <h3>加拿大留学移民规划专场——<br>留学加拿大：留学+移民，一步到位！</h3>
+                    <div>主讲人：Cathleen Liu</div>
+                    <div>华樱出国加拿大部负责人，从事出国留学顾问超过十年，获加拿大国际教育联盟及国际教育事务咨询处认证的“加拿大教育咨询专家”证书</div>
+                </div>
+                <div>
+                    <div class="u-icon u-icon-4"></div>
+                    <h3>外语水平提升专场——<br>词海无涯，回头是岸：论单词在阅读中的作用</h3>
+                    <div>主讲人：Stone Zhang</div>
+                    <div>英语专业八级，五年出国留学考试授课经验，善于与学生沟通，帮助无数学生取得托福/雅思高分</div>
+                </div>
+            </div>
+        </div>
+        <div class="m-block">
+            <div class="m-content">
+                <div>
+                    <div class="u-icon u-icon-2"></div>
+                    <h3>西南留学生家庭俱乐部专场——<br>《西南留学生家庭需求白皮书》发布暨对外招募启动仪式</h3>
+                    <div>主讲人：Nina Yan</div>
+                    <div>华樱出国客户服务部总监兼诚友汇执行会长，对海归创投及发展有深入研究</div>
+                </div>
+                <div>
+                    <div class="u-icon u-icon-1"></div>
+                    <h3>西南留学家庭发展数据专场——优秀学生家长代表、优秀海归代表圆桌会</h3>
+                    <div>主讲人：美国爱荷华大学大三学生家长、树德中学国际部毕业生（澳洲海归，现任澳新银行高级结算经理）、优秀海归创业者（英国海归，YOUNGS国际教育创始人）</div>
+                </div>
+                <div>
+                    <div class="u-icon u-icon-3"></div>
+                    <h3>树德国际部专场——<br>校友会成立仪式及优秀学子分享</h3>
+                    <div>主讲人：Jordan Pu</div>
+                    <div>树德国际部第一届留学生学生会主席，常年定居澳洲，对澳洲的生活、留学、移民、经济等方方面面有深入了解，目前就职于澳大利亚最大的房地产投资开发公司</div>
+                </div>
+            </div>
+            <div class="m-title m-title1">
+                <h2>海归、留学家庭与海外投资移民专场</h2>
+                <div class="u-btn"><a href="javascript:void(0)" onclick="_MEIQIA('showPanel')">立即了解是否有适合我的内容？&nbsp;<i class="fa fa-arrow-circle-right"></i></a></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="g-sect-senior" id="g-sect5">
+        <h1>3.24来华樱，看看你学长学姐都去了哪里</h1>
+        <h2>因篇幅限制，仅列举小部分有代表性的录取案例</h2>
+        <div class="m-offer-slide">
+            <ul>
+                <li class="on">美国篇</li>
+                <li>加拿大篇</li>
+                <li>英国篇</li>
+                <li>澳大利亚篇</li>
+                <li>其他国家与地区</li>
+            </ul>
+            <table width="750" border="1">
+                <thead>
+                    <tr>
+                        <th width="100">学生姓名</th>
+                        <th width="120">背景院校</th>
+                        <th>标化成绩</th>
+                        <th width="120">录取院校</th>
+                        <th width="120">录取专业</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="odd-row">
+                        <td>袁同学</td>
+                        <td>树德中学国际部</td>
+                        <td>IB 43, 托福114，SAT1 1490，SAT2 1560</td>
+                        <td>美国西北大学</td>
+                        <td>国际关系本科</td>
+                    </tr>
+                    <tr class="odd-row">
+                        <td>张同学</td>
+                        <td>西南交通大学</td>
+                        <td>GPA 92%，托福 103，GRE325</td>
+                        <td>麻省理工学院</td>
+                        <td>土木工程硕士</td>
+                    </tr>
+                    <tr class="odd-row">
+                        <td>罗同学</td>
+                        <td>加州大学伯克利分校</td>
+                        <td>GRE 329，豁免托福</td>
+                        <td>芝加哥大学</td>
+                        <td>金融数学硕士</td>
+                    </tr>
+                    <tr class="odd-row">
+                        <td>李同学</td>
+                        <td>武汉大学</td>
+                        <td>GPA 3.34，托福95，GRE323+2.5</td>
+                        <td>莱斯大学</td>
+                        <td>环境工程硕士</td>
+                    </tr>
+                    <tr class="odd-row">
+                        <td>王同学</td>
+                        <td>中国政法大学</td>
+                        <td>GPA 3.4，托福100</td>
+                        <td>美国西北大学</td>
+                        <td>法律硕士</td>
+                    </tr>
+                </tbody>
+            </table>
+            <table width="980" border="1">
+                <thead>
+                    <tr>
+                        <th width="100">学生姓名</th>
+                        <th width="120">背景院校</th>
+                        <th>标化成绩</th>
+                        <th width="120">录取院校</th>
+                        <th width="120">录取专业</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="odd-row">
+                        <td>杜同学</td>
+                        <td>成都七中</td>
+                        <td>GPA 91.3%，SAT1360，雅思6.5</td>
+                        <td>麦吉尔大学</td>
+                        <td>建筑（本科）</td>
+                    </tr>
+                    <tr class="odd-row">
+                        <td>马同学</td>
+                        <td>成都实验外国语学校西区</td>
+                        <td>GPA 92%，托福85</td>
+                        <td>多伦多大学</td>
+                        <td>社会学（本科）</td>
+                    </tr>
+                    <tr class="odd-row">
+                        <td>何同学</td>
+                        <td>成都外国语学校</td>
+                        <td>高考成绩548（理科），雅思7.0，GPA94%</td>
+                        <td>UBC</td>
+                        <td>计算机工程（本科）</td>
+                    </tr>
+                    <tr class="odd-row">
+                        <td>董同学</td>
+                        <td>西南交通大学</td>
+                        <td>雅思7.0，均分87.4，GMAT660</td>
+                        <td>UBC</td>
+                        <td>商业分析硕士</td>
+                    </tr>
+                    <tr class="odd-row">
+                        <td>黄同学</td>
+                        <td>西南石油大学</td>
+                        <td>托福84，GPA3.61</td>
+                        <td>韦士敦大学</td>
+                        <td>土木与环境工程硕士</td>
+                    </tr>
+                </tbody>
+            </table>
+            <table width="980" border="1">
+                <thead>
+                    <tr>
+                        <th width="100">学生姓名</th>
+                        <th width="120">背景院校</th>
+                        <th>标化成绩</th>
+                        <th width="120">录取院校</th>
+                        <th width="120">录取专业</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="odd-row">
+                        <td>饶同学</td>
+                        <td></td>
+                        <td>雅思7.5，均分94.5</td>
+                        <td>圣安德鲁斯大学</td>
+                        <td>金融经济学（本科）</td>
+                    </tr>
+                    <tr class="odd-row">
+                        <td>谢同学</td>
+                        <td>西南财经大学</td>
+                        <td>GPA 88% ，雅思7，GMAT 710</td>
+                        <td>帝国理工学院</td>
+                        <td>策略营销硕士</td>
+                    </tr>
+                    <tr class="odd-row">
+                        <td>陈同学</td>
+                        <td>四川大学锦城学院</td>
+                        <td>均分85%，申请时无雅思成绩</td>
+                        <td>华威大学</td>
+                        <td>工商管理硕士</td>
+                    </tr>
+                    <tr class="odd-row">
+                        <td>李同学</td>
+                        <td>西南科技大学</td>
+                        <td>托福87，均分89.5%</td>
+                        <td>伦敦大学学院</td>
+                        <td>建筑设计硕士</td>
+                    </tr>
+                    <tr class="odd-row">
+                        <td>何同学</td>
+                        <td>四川音乐学院</td>
+                        <td>雅思5.5，均分80+</td>
+                        <td>伦敦大学学院教育学院</td>
+                        <td>音乐教育硕士</td>
+                    </tr>
+                </tbody>
+            </table>
+            <table width="980" border="1">
+                <thead>
+                    <tr>
+                        <th width="100">学生姓名</th>
+                        <th width="120">背景院校</th>
+                        <th>标化成绩</th>
+                        <th width="120">录取院校</th>
+                        <th width="120">录取专业</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="odd-row">
+                        <td>刘同学</td>
+                        <td>广安友谊中学</td>
+                        <td>高考成绩531分，雅思6.0</td>
+                        <td>新南威尔士大学</td>
+                        <td>商科（本科）</td>
+                    </tr>
+                    <tr class="odd-row">
+                        <td>杨同学</td>
+                        <td>四川大学</td>
+                        <td>GPA：84.25%，雅思7.0</td>
+                        <td>墨尔本大学</td>
+                        <td>会计与金融硕士</td>
+                    </tr>
+                    <tr class="odd-row">
+                        <td>李同学</td>
+                        <td>电子科技大学</td>
+                        <td>GPA 92% ，雅思7.0</td>
+                        <td>新南威尔士大学</td>
+                        <td>农业与环境硕士</td>
+                    </tr>
+                    <tr class="odd-row">
+                        <td>钟同学</td>
+                        <td>成都大学</td>
+                        <td>GPA：75%，雅思6.5</td>
+                        <td>蒙纳士大学</td>
+                        <td>传媒学</td>
+                    </tr>
+                    <tr class="odd-row">
+                        <td>吴同学</td>
+                        <td>成都理工大学</td>
+                        <td>GPA：84%，申请时无雅思</td>
+                        <td>阿德莱德大学</td>
+                        <td>金融学</td>
+                    </tr>
+                </tbody>
+            </table>
+            <table width="980" border="1">
+                <thead>
+                    <tr>
+                        <th width="100">学生姓名</th>
+                        <th width="120">背景院校</th>
+                        <th>标化成绩</th>
+                        <th width="120">录取院校</th>
+                        <th width="120">录取专业</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="odd-row">
+                        <td>徐同学</td>
+                        <td>西南财经大学</td>
+                        <td>GPA 87.5%，GMAT 710，雅思7.0</td>
+                        <td>ESCP欧洲管理学院（法国）</td>
+                        <td>金融学硕士</td>
+                    </tr>
+                    <tr class="odd-row">
+                        <td>先同学</td>
+                        <td>绵阳东辰国际学校</td>
+                        <td>高考641分（理科），雅思7.5</td>
+                        <td>新加坡国立大学</td>
+                        <td>材料与工程本科</td>
+                    </tr>
+                    <tr class="odd-row">
+                        <td>彭同学</td>
+                        <td>成都实验外国语学校</td>
+                        <td>SAT1：1430  SAT2：2260  托福101</td>
+                        <td>香港中文大学</td>
+                        <td>全球传播本科</td>
+                    </tr>
+                    <tr class="odd-row">
+                        <td>王同学</td>
+                        <td>四川大学</td>
+                        <td>GPA：3.4，雅思7.0</td>
+                        <td>香港大学</td>
+                        <td>社会学硕士</td>
+                    </tr>
+                    <tr class="odd-row">
+                        <td>刘同学</td>
+                        <td>西南交通大学</td>
+                        <td>GPA88.76，雅思7.5</td>
+                        <td>阿姆斯特丹大学</td>
+                        <td>精算科学与数学金融硕士</td>
+                    </tr>
+                    <tr class="odd-row">
+                        <td>刘同学</td>
+                        <td>东北林业大学</td>
+                        <td>GPA：86.73，雅思7.0</td>
+                        <td>阿姆斯特丹大学</td>
+                        <td>工商管理硕士</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="m-offerimg-slide">
+            <h3>华樱出国<br>名校offer展示（部分）</h3>
+            <div class="u-scroll-box" style="margin:0 auto">
+                <div class="ohbox">
+                    <ul class="piclist">
+                        ﻿<li><img src="images/offer/1.jpg"><div class="u-label"><div class="u-name">陈同学</div><div class="label">西班牙·巴塞罗那大学</div></div></li>
+                        ﻿<li><img src="images/offer/2.jpg"><div class="u-label"><div class="u-name">陈同学</div><div class="label">加拿大·多伦多大学</div></div></li>
+                        ﻿<li><img src="images/offer/3.jpg"><div class="u-label"><div class="u-name">陈同学</div><div class="label">英国·伦敦艺术大学</div></div></li>
+                        ﻿<li><img src="images/offer/4.jpg"><div class="u-label"><div class="u-name">杜同学</div><div class="label">加拿大·麦吉尔大学</div></div></li>
+                        ﻿<li><img src="images/offer/5.jpg"><div class="u-label"><div class="u-name">侯同学</div><div class="label">加拿大·皇后大学</div></div></li>
+                        ﻿<li><img src="images/offer/6.jpg"><div class="u-label"><div class="u-name">李同学</div><div class="label">澳大利亚·澳国立大学</div></div></li>
+                        ﻿<li><img src="images/offer/7.jpg"><div class="u-label"><div class="u-name">李同学</div><div class="label">英国·伦敦政治经济学院</div></div></li>
+                        ﻿<li><img src="images/offer/8.jpg"><div class="u-label"><div class="u-name">刘同学</div><div class="label">新西兰·奥克兰大学</div></div></li>
+                        ﻿<li><img src="images/offer/9.jpg"><div class="u-label"><div class="u-name">刘同学</div><div class="label">中国香港·香港科技大学</div></div></li>
+                        ﻿<li><img src="images/offer/10.jpg"><div class="u-label"><div class="u-name">缪同学</div><div class="label">美国·杜克大学</div></div></li>
+                        ﻿<li><img src="images/offer/11.jpg"><div class="u-label"><div class="u-name">史同学</div><div class="label">澳大利亚·新南威尔士大学</div></div></li>
+                        ﻿<li><img src="images/offer/12.jpg"><div class="u-label"><div class="u-name">田同学</div><div class="label">澳大利亚·墨尔本大学</div></div></li>
+                        ﻿<li><img src="images/offer/13.jpg"><div class="u-label"><div class="u-name">王同学</div><div class="label">加拿大·滑铁卢大学</div></div></li>
+                        ﻿<li><img src="images/offer/14.jpg"><div class="u-label"><div class="u-name">魏同学</div><div class="label">新加坡·南洋理工大学</div></div></li>
+                        ﻿<li><img src="images/offer/15.jpg"><div class="u-label"><div class="u-name">先同学</div><div class="label">新加坡·新加坡国立大学</div></div></li>
+                        ﻿<li><img src="images/offer/16.jpg"><div class="u-label"><div class="u-name">徐同学</div><div class="label">美国·宾夕法尼亚大学</div></div></li>
+                        ﻿<li><img src="images/offer/17.jpg"><div class="u-label"><div class="u-name">徐同学</div><div class="label">法国·ESCP商学院</div></div></li>
+                        ﻿<li><img src="images/offer/18.jpg"><div class="u-label"><div class="u-name">徐同学</div><div class="label">法国·ESSEC商学院</div></div></li>
+                        ﻿<li><img src="images/offer/19.jpg"><div class="u-label"><div class="u-name">许同学</div><div class="label">法国·巴黎四大</div></div></li>
+                        ﻿<li><img src="images/offer/20.jpg"><div class="u-label"><div class="u-name">杨同学</div><div class="label">英国·伦敦大学学院</div></div></li>
+                        ﻿<li><img src="images/offer/21.jpg"><div class="u-label"><div class="u-name">袁同学</div><div class="label">美国·康奈尔大学</div></div></li>
+                        ﻿<li><img src="images/offer/22.jpg"><div class="u-label"><div class="u-name">张同学</div><div class="label">加拿大·多伦多大学</div></div></li>
+                        ﻿<li><img src="images/offer/23.jpg"><div class="u-label"><div class="u-name">张同学</div><div class="label">中国香港·香港中文大学</div></div></li>
+                        ﻿<li><img src="images/offer/24.jpg"><div class="u-label"><div class="u-name">张同学</div><div class="label">美国·约翰霍普金斯大学</div></div></li>
+                        ﻿<li><img src="images/offer/25.jpg"><div class="u-label"><div class="u-name">郑同学</div><div class="label">美国·斯坦福大学</div></div></li>
+                    </ul>
+                </div>
+                <div class="pageBtn">
+                    <span class="prev"><i class="fa fa-angle-double-left"></i></span>
+                    <span class="next"><i class="fa fa-angle-double-left"></i></span>
+                    <ul class="list"></ul>
+                </div>
+            </div>
+        </div>
+        <div class="u-btn"><a href="javascript:void(0)" onclick="_MEIQIA('showPanel')">我也想马上规划申请，立即咨询！&nbsp;<i class="fa fa-arrow-circle-right"></i></a></div>
+    </div>
+
+    <div class="g-sect-discount" id="g-sect6">
+        <div class="m-content">
+            <h2>现场重磅优惠！</h2>
+            <ul>
+                <li><span class="u-title">留学办理：</span>现场签约，最高立减 <span class="u-info">8000元！</span></li>
+                <li><span class="u-title">老客户探亲签证：</span>办一赠一！</li>
+                <li><span class="u-title">外语课程： </span>现场签约，即享<span class="u-info">8.5折</span>（小语种除外）！</li>
+                <li><span class="u-title">移民业务：</span>现场签约即享<span class="u-info">9折</span>！</li>
+                <li><span class="u-title">课外活动：</span>海外交流项目与优才计划，现场签约即享<span class="u-info">2000元</span>优惠！</li>
+                <li><span class="u-title">职业规划：</span>到场即享免费职业测评一次！（价值<span class="u-info">680元</span>）</li>
+            </ul>
+            <h2>抽奖送好礼！</h2>
+            <div>凡现场签到学生或家长，皆有机会抽取人民币最高<span class="u-info">8000元</span>现金抵用券！（可与优惠叠加使用）</div>
+            <div>还有免费马术体验券、健身体验卡等</div>
+            <div class="u-btn"><a href="javascript:void(0)" onclick="_MEIQIA('showPanel')">更多惊喜，等你来抢！&nbsp;<i class="fa fa-arrow-circle-right"></i></a></div>
+        </div>
+        <div></div>
+
+    </div>
+
+    <div class="g-sect-honor" id="g-sect7">
+        <div>
+            <div>
+                <h1>华樱资质</h1>
+                <h2>为什么<span>10,000+</span>西南留学家庭<br>都选择了<span>华樱</span>？</h2>
+                <ul>
+                    <li>
+                        <div class="u-icon"><img src="images/icon/honor_01.png"></div>
+                        <div class="u-title">白名单</div>
+                        <div class="u-honor">四川省入围留学服务行业白名单的唯一机构</div>
+                    </li>
+                    <li>
+                        <div class="u-icon"><img src="images/icon/honor_02.png"></div>
+                        <div class="u-title">首批</div>
+                        <div class="u-honor">教育部首批官方颁发留学服务机构资质</div>
+                    </li>
+                    <li>
+                        <div class="u-icon"><img src="images/icon/honor_03.png"></div>
+                        <div class="u-title">独家</div>
+                        <div class="u-honor">美国名校西南地区指定面试机构</div>
+                    </li>
+                    <li>
+                        <div class="u-icon"><img src="images/icon/honor_04.png"></div>
+                        <div class="u-title">奖学金</div>
+                        <div class="u-honor">针对优秀学子设立高达6w的专项教育基金</div>
+                    </li>
+                    <li>
+                        <div class="u-icon"><img src="images/icon/honor_05.png"></div>
+                        <div class="u-title">实力</div>
+                        <div class="u-honor">联合国国际学生年会 合作机构</div>
+                    </li>
+                    <li>
+                        <div class="u-icon"><img src="images/icon/honor_06.png"></div>
+                        <div class="u-title">近4000</div>
+                        <div class="u-honor">全球合作院校</div>
+                    </li>
+                    <li>
+                        <div class="u-icon"><img src="images/icon/honor_07.png"></div>
+                        <div class="u-title">99.9%</div>
+                        <div class="u-honor">多国院校录取率接近满分</div>
+                    </li>
+                    <li>
+                        <div class="u-icon"><img src="images/icon/honor_08.png"></div>
+                        <div class="u-title">99.9%</div>
+                        <div class="u-honor">各国签证通过率近乎完美</div>
+                    </li>
+                    <li>
+                        <div class="u-icon"><img src="images/icon/honor_09.png"></div>
+                        <div class="u-title">专业</div>
+                        <div class="u-honor">留学经验源自多年沉淀的结晶</div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!--div class="g-sect-zt" id="g-sect8">
+        <h1>热门专题</h1>
+        <div>
+            <div>
+                <ul>
+                    <li><a href="" target="_blank"></a></li>
+                </ul>
+            </div>
+        </div>
+    </div-->
+</div>
+<div class="g-footer">
+    <div class="m-footer">
+        <h1>2018春季·国际教育展&nbsp;&nbsp;<span>一站定制 留学前后全方案</span></h1>
+        <div>
+            <span>
+                <i class="fa fa-calendar"></i>
+                <span>日期 | 3月24日 13:00</span>
+            </span>
+            <span>
+                <i class="fa fa-map-marker"></i>
+                <span>地点 | 仁和春天酒店三楼宴会厅</span>
+            </span>
+        </div>
+        <div>
+            <span>
+                <i class="fa fa-phone"></i>
+                <span>电话 | 028 - 62058888</span>
+            </span>
+        </div>
+        <div>
+            <span>
+                <i class="fa fa-copyright"></i>
+                <span>1992-2018 cdhuaying.com</span>
+            </span>
+        </div>
+    </div>
+</div>
+<div class="g-pop-nav navbar">
+    <ul class="nav nav-tabs">
+        <li class="active"><a href="#g-sect1">观展亮点</a></li>
+        <li><a href="#g-sect3">观展人群</a></li>
+        <li><a href="#g-sect4">讲座指南</a></li>
+        <li><a href="#g-sect5">历年录取</a></li>
+        <li><a href="#g-sect6">重磅优惠</a></li>
+        <li><a href="#g-sect7">华樱资质</a></li>
+    </ul>
+    <div><a href="javascript:void(0)" onclick="_MEIQIA('showPanel')"></a></div>
+</div>
+<div class="g-pop-bottom">
+    <div class="m-fixed">
+        <div class="m-ct">
+            <div class="u-close-fixed-form"><img src="/zt/2017/1015/images/i_03.png" alt=""></div>
+            <a class="left-box" href="http://www.cdhuaying.com/zt/2018/0324edu/" target="_blank">
+                <p class="m-pop-title">3月24日<br>2018春季<br>国际教育展</p>
+                <div class="m-pop-content">
+                    <dl class="m-pop-total">
+                        <dd><span>10场</span><br>高质量讲座</dd>
+                        <dd><span>16名</span><br>重磅分享嘉宾</dd>
+                        <dd><span>100余名</span><br>华樱资深指导顾问</dd>
+                    </dl>
+                    <dl class="m-pop-guest">
+                        <dd class="u-imp">任职21年哈佛前任招生官</dd>
+                        <dd>英国院校数据分析师</dd>
+                        <dd>哥伦比亚大学在读学子</dd>
+                        <dd>英国澳洲名校毕业生</dd>
+                        <dd>名校海归创业就业精英</dd>
+                        <!--<dd>巴黎政治学院录取学子</dd>-->
+                    </dl>
+                    <!--span class="u-line">不仅仅是这些，快预约来现场收获更多！</span-->
+                </div>
+            </a>
+            <div class="fixed-right">
+                <div class="fixed-form" id="valibox_fixed">
+                    <p>--立即预约，获哈佛前招生官交流机会--</p>
+                    <p><span>姓名：</span><input type="text" maxlength="10" name="uname" id="uname2" data-validate-option="isNull" data-validate-message="请填写学生姓名"></p>
+                    <p><span>电话：</span><input type="text" maxlength="11" name="umobile" id="umobile2" data-validate-option="isMobile" data-validate-message="手机格式不正确" ></p>
+                    <p><span>意向国家：</span><input type="text" maxlength="10" name="yx_guojia" id="yx_guojia2" data-validate-option="isNull" data-validate-message="请填写意向国家"></p>
+                    <p><a href="javascript:;" class="u-btn-order-submit" data-title="2018新春教育展-PC-ZT"><img src="/zt/2017/1015/images/b_10.png" alt=""></a></p>
+                </div>
+                <div class="fixed-success none"><img src="/zt/2017/1015/images/t_07.png" alt=""></div>
+                           <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="g-left-fix">
+    <img src="/zt/2018/0324edu/images/fix_left.png" alt="">
+</div>
+<script src="/js/submitAjax.js"></script>
+<script src="/js/validate.js"></script>
+<script>
+    $(function(){
+        /**
+         * 底部报名提交
+         */
+        $(".u-btn-order-submit").on('click', function(){
+            if ($validate({ doc: "valibox_fixed", uiback: function(a, b, c) { alert(c); } }).begin()) {
+                //updateInfoString(1);
+                var dataArr = {
+                    uTitle: $(this).attr('data-title'),
+                    uName: $("#uname2").val(),
+                    uMobile: $("#umobile2").val(),
+                    Wt_guojia: $("#yx_guojia2").val(),
+
+                    uSex: '',
+                    uPhone: '',
+                    uQQ: '',
+                    uEmail: '',
+                    uCity: '',
+                    Cr_xueli: '',
+                    Wt_xueli: '',
+                    Cr_yusuan: '',
+                    Wt_shijian: '',
+                    Yx_guojia: '',
+                    Cr_xuexiao: '',
+                    Wt_xuexiao: '',
+                    Cr_zhuanye: '',
+                    Wt_zhuanye: '',
+                    uIelts: '',
+                    uToefl: '',
+                    uSat: '',
+                    uGmat: '',
+                    uGre: '',
+                    uJtest: '',
+                    Wt_more: '',
+                    uGrade: '',
+                    uWechat: '',
+                    uOther: '',
+                    uOther_check: '',
+                    SourceLink: window.location.href,
+                    Source: '华樱官网'
+                };
+                if (!dataArr.uName) {
+                    alert('请填写姓名！');
+                    return false;
+                }
+                if (!dataArr.uMobile) {
+                    alert('请填写电话！');
+                    return false;
+                }
+
+                $.ajax({
+                    url: "/Webhandler/2016_02_19_OverallData.ashx?t=send",
+                    type: "post",
+                    async: true,
+                    data: dataArr,
+                    success: function (e) {
+                        alert(e)
+                    },
+                    error: function (jqXHR) {
+                    }
+                });
+            }
+        });
+        $(".m-fixed .u-close-fixed-form").on('click', function(){
+            $(".g-pop-bottom").animate({"left":"-100%"},function(){
+                $(".g-left-fix").animate({"left":"0"})
+            });
+        });
+        $(".g-left-fix").on('click', function(){
+            $(".g-left-fix").animate({"left":"-100%"},function(){
+                $(".g-pop-bottom").animate({"left":"0"})
+            })
+        });
+    })
+</script>
+<style type="text/css">
+    .g-pop-bottom {
+        width: 100%;
+        height: 208px;
+        position: fixed;
+        bottom: 0;
+        left:-100%;
+        z-index: 9;
+    }
+    .g-pop-bottom .m-fixed {
+        width: 100%;
+        height: 208px;
+        background: url("/zt/2018/0324edu/images/img_bottom.png?20180307") top center no-repeat;
+    }
+    .g-pop-bottom .m-fixed a{
+        text-decoration: none;
+    }
+    .g-pop-bottom .m-fixed .m-ct {
+        position: relative;
+    }
+    .g-pop-bottom .m-fixed .fixed-right {
+        width: 340px;
+        float: right;
+        color: #f4e0a3;
+    }
+    .g-pop-bottom .m-fixed .left-box {
+        display:block;
+        width:650px;
+        height:208px;
+        float:left;
+        font-size:14px;
+    }
+
+    .g-pop-bottom .m-pop-title{
+        margin: 20px 0;
+        border-radius: 120px;
+        background: #cc2b2f;
+        width: 120px;
+        height: 120px;
+        color: #f4e0a3;
+        text-align: center;
+        padding: 20px;
+        font-size: 22px;
+        line-height: 32px;
+        display: inline-block;
+        float: left;
+    }
+    .g-pop-bottom .m-pop-content{
+        display: inline-block;
+        float: left;
+        line-height: 20px;
+    }
+    .g-pop-bottom dl.m-pop-total{
+        overflow: hidden;
+        margin: 20px 0 0;
+        padding: 0 0 15px;
+        clear: both;
+    }
+    .g-pop-bottom dl.m-pop-total dd{
+        border-radius: 5px;
+        margin: 0 5px;
+        float: left;
+        width: 120px;
+        background: #f09b24;
+        color: #402624;
+        padding: 10px;
+        box-shadow: 0px 2px 10px #402624;
+        text-align: center;
+    }
+    .g-pop-bottom dl.m-pop-total dd span{
+        font-size: 18px;
+        font-weight: bold;
+        line-height: 35px;
+    }
+    .g-pop-bottom dl.m-pop-guest{
+        margin: 0;
+        clear: both;
+    }
+    .g-pop-bottom dl.m-pop-guest dd{
+        border-radius: 5px;
+        margin: 0 5px;
+        float: left;
+        width: 60px;
+        background: #40361c;
+        color: #fdcb26;
+        padding: 10px;
+        box-shadow: 2px 1px 10px #402624;
+        text-align: center;
+    }
+    .g-pop-bottom dl.m-pop-guest dd.u-imp{
+        background: #cc2b2f;
+    }
+    .g-pop-bottom .m-fixed .fixed-form span {
+        width: 80px;
+        text-align: right;
+        display: inline-block;
+        *display: inline;
+        *zoom: 1;
+        font-size: 14px;
+        font-weight: 700;
+    }
+    .g-pop-bottom .m-fixed .fixed-form input {
+        width: 160px;
+        padding: 5px 0;
+    }
+    .g-pop-bottom .m-fixed .fixed-form p {
+        margin-top: 10px;
+    }
+    .g-pop-bottom .m-fixed .fixed-form p a {
+        margin-left: 75px;
+    }
+    .g-pop-bottom .m-fixed .fixed-success {
+        padding-top: 30px;
+        padding-left: 5px;
+    }
+    .g-pop-bottom .m-fixed .u-close-fixed-form {
+        position: absolute;
+        right: -30px;
+        top: 5px;
+        cursor: pointer;
+    }
+    .g-left-fix {
+        position: fixed;
+        bottom: 0;
+        z-index: 9;
+    }
+    .g-pop-bottom .m-ct {
+        width: 1000px;
+        margin: 0 auto;
+    }
+</style>
+
+<!--script src="fontawesome/js/fontawesome.min.js"></script-->
+<script src="/Public/Style/js/jquery.SuperSlide.2.1.2.js"></script>
+<script src="/Public/Style/js/scrollspy.js"></script>
+
+<script type="text/javascript">
+    $('body').scrollspy({ target: '.navbar' });
+</script>
+<script type="text/javascript">
+$(function () {
+    $(".g-sect-senior .u-scroll-box").slide({
+        titCell: ".list",
+        autoPage: "true",
+        autoPlay: "true",
+        mainCell: ".piclist",
+        effect: "leftLoop",
+        vis: 5,
+        scroll: 1,
+        delayTime: 800,
+        trigger: "click",
+        easing: "easeOutCirc"
+    });
+
+    //绑定滚动条事件
+    var realShow = 1;
+    var setShow = 0;
+    $(window).bind("scroll", function () {
+        var sTop = $(window).scrollTop();
+        sTop = parseInt(sTop);
+        if (sTop < 1000) {
+            if($(".g-pop-bottom").position().left == 0){
+                setShow = 0;
+            }
+        }
+        else {
+            if($(".g-pop-bottom").position().left < 0) {
+                setShow = 1;
+            }
+        }
+        //console.log(realShow + ' '+setShow);
+        if (realShow == 1 && setShow == 0) {
+            realShow = 0;
+            $(".g-pop-bottom").animate({"left":"-100%"},function(){
+                $(".g-left-fix").animate({"left":"0"});
+            });
+        } else if (realShow == 0 && setShow == 1) {
+            realShow = 1;
+            $(".g-left-fix").animate({"left":"-100%"},function(){
+                $(".g-pop-bottom").animate({"left":"0"});
+                realShow = 1;
+            })
+        }
+    });
+});
+
+$(document).ready(function() {
+    $(".m-offer-slide ul li").each(function (i) {
+        $(this).hover(function() {
+            $(".m-offer-slide li").eq(i).addClass("on").siblings(".m-offer-slide li").removeClass("on");
+            $('.m-offer-slide table').eq(i).show().siblings('.m-offer-slide table').hide();
+        })
+    });
+
+});
+</script>
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "//hm.baidu.com/hm.js?42d7ad8e490f91eef61abf055057d5b5";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+
+<script type='text/javascript'>
+    (function(m, ei, q, i, a, j, s) {
+        m[i] = m[i] || function() {
+            (m[i].a = m[i].a || []).push(arguments)
+        };
+        j = ei.createElement(q),
+            s = ei.getElementsByTagName(q)[0];
+        j.async = true;
+        j.charset = 'UTF-8';
+        j.src = 'https://static.meiqia.com/dist/meiqia.js?_=t';
+        s.parentNode.insertBefore(j, s);
+    })(window, document, 'script', '_MEIQIA');
+    _MEIQIA('entId', 23423);
+</script>
+</body>
+</html>

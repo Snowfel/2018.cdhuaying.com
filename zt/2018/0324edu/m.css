@@ -1,0 +1,160 @@
+html{
+    outline: 0;
+    -webkit-text-size-adjust: none;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: #ffd129;
+}
+a{
+    color:#FFF;
+    text-decoration: none;
+}
+nav{
+
+}
+header{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+header > div {
+    margin: 0 0 0.5rem 0;
+}
+header .m-logo {
+    background: url("images/m/logo.png") no-repeat left center ;
+    background-size: 60%;
+    width: 298px;
+    height: 60px;
+}
+
+.g-sect-hot .m-hot-total{
+    overflow: hidden;
+    margin: 1rem 2rem 0;
+    padding: 0 0 1rem;
+    clear: both;
+}
+.g-sect-hot .m-hot-total dd{
+    border-radius: 5px;
+    margin: 0 5px;
+    float: left;
+    width: 9.5rem;
+    color: #402624;
+    padding: 10px;
+    text-align: center;
+    font-size: 1.4rem;
+    line-height: 2rem;
+    border:0.3rem #f09b24 dotted;
+}
+.g-sect-hot .m-hot-total dd span{
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 35px;
+}
+.g-sect-hot .m-hot-total dd p{
+    border: 0.1rem #f0ad4e solid;
+    border-radius: 1.5rem;
+    margin: 0.4rem;
+    background: #ff7800;
+    color: #fff;
+    line-height: 3rem;
+}
+.g-sect-hot .m-hot-total dd p a{
+    text-decoration: none;
+    display: block;
+}
+article{
+    width: 640px;
+    margin: 0 auto;
+}
+.g-sect-order{
+    overflow: hidden;
+    margin: 0 auto 2rem;
+}
+.g-sect-order h1 {
+    text-align: center;
+    font-size: 2rem;
+    padding: 0.5rem 0;
+}
+.g-sect-order h1 span{
+    border:0.3rem solid #f09b24;
+    border-left: none;
+    border-right:none;
+    display: inline-block;
+    padding: 0.5rem;
+}
+.g-sect-order h2 {
+    text-align: center;
+    font-size: 1.6rem;
+}
+.g-sect-order .m-order-input{
+    margin: 0 auto;
+    padding: 0;
+}
+.g-sect-order .m-order-input>div{
+    margin: 0;
+    padding: 0.5rem 3rem;
+}
+.g-sect-order input[type="text"] {
+    width: 100%;
+    font-size:1.8rem;
+    line-height: 4rem;
+    color: #555;
+    display: block;
+    height: 4rem;
+    padding: 0.5rem 2rem;
+    background-color: #fff;
+    border: 0.1rem solid #ccc;
+    border-radius: 0.5rem;
+    -webkit-box-shadow: inset 0.5rem 0.5rem rgba(0,0,0,0.075);
+    box-shadow: inset 0 0.5rem 0.5rem rgba(0,0,0,0.075);
+    box-sizing:border-box;
+}
+
+.g-sect-order .u-btn{
+    line-height: 2.6rem;
+    font-size:1.6rem;
+    display: block;
+    border-radius: 0.5rem;
+    -webkit-box-shadow: inset 0.5rem 0.5rem rgba(0,0,0,0.075);
+    box-shadow: inset 0 0.5rem 0.5rem rgba(0,0,0,0.075);
+    box-sizing:border-box;
+    padding: 1rem 1rem;
+    text-align: center;
+    background: #ff7800;
+    color: #fff;
+    margin: 0.5rem 3rem;
+    font-weight: bold;
+    text-decoration: none;
+}
+.g-sect-order .u-note{
+    color:#402724;
+    text-align: center;
+    font-size:1.4rem;
+}
+
+.g-sect-guest{
+    margin: 0 auto 3rem;
+    overflow: hidden;
+}
+.g-sect-act{
+    margin: 0 auto 3rem;
+    overflow: hidden;
+}
+.g-sect-act .m-content{
+    padding: 0 0 0 4rem;
+    margin: 2rem auto;
+    font-size: 1.3rem;
+    line-height: 3rem;
+}
+
+.g-sect-onestep{
+    text-align: center;
+    margin: 0 auto 3rem;
+    overflow: hidden;
+}

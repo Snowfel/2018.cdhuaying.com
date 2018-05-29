@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=640, user-scalable=no, target-densitydpi=device-dpi">
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <meta content="black" name="apple-mobile-web-app-status-bar-style">
+    <meta content="telephone=no" name="format-detection">
+    <meta content="email=no" name="format-detection">
+    <title>2018春季·国际教育展 - 华樱出国</title>
+    <link rel="stylesheet" href="m.css">
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?42d7ad8e490f91eef61abf055057d5b5";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body>
+<nav>
+
+</nav>
+<header>
+    <div class="m-logo"></div>
+    <!--<div><img src="images/m/1.png" width="523" height="51"/></div>
+    <div><img src="images/m/2.png" width="518" height="59"/></div>-->
+    <div><img src="images/m/3.png" width="586" height="376"/></div>
+    <div><img src="images/m/4.png" width="501" height="85"/></div>
+</header>
+
+<article>
+    <section class="g-sect-hot">
+        <dl class="m-hot-total">
+            <dd><span>现场指导</span><br>哈佛前招生官<br>一对一面试<p><a href="#order">立即预约</a></p></dd>
+            <dd><span>现场签约</span><br>最高立减<br>16,000元<p><a href="#order">申请获取</a></p></dd>
+            <dd><span>到场即送</span><br>职业规划测评<br>(原价680元)<p><a href="#order">申请赠送</a></p></dd>
+        </dl>
+    </section>
+    <a name="order"></a>
+    <section class="g-sect-order">
+        <h1><span>来现场，获取你的专属留学方案</span></h1>
+        <h2>门票限时申领中，快抢！</h2>
+        <div class="m-order-input">
+            <div><input type="text" id="uname" name="uname" placeholder="姓名" title="姓名" required/></div>
+            <div><input type="text" id="umobile" name="umobile" placeholder="手机" title="手机" required/></div>
+            <div><input type="text" id="ctry" name="ctry" placeholder="意向国家" title="意向国家"/></div>
+        </div>
+        <div class="u-btn" id="ajax_submit_form" data-title="2018新春教育展-M-顶">点击预约，即送《海外留学全指南》</div>
+        <div class="u-note">华樱承诺：将对您的个人信息严格保密。</div>
+    </section>
+    <section class="g-sect-guest">
+        <div style="text-align: center; margin: 0 0 2rem;"><img src="images/m/7.png" width="428" height="174"/></div>
+        <div style="text-align: left; margin: 0 0 2rem;"><img src="images/m/8.png" width="533" height="171"/></div>
+        <div><img src="images/m/9.png?201803141410" width="640" height="152"/></div>
+        <div><img src="images/m/10.png?201803141410" width="640" height="152"/></div>
+        <div><img src="images/m/11.png?201803141410" width="640" height="150"/></div>
+        <div><img src="images/m/12.png?201803141410" width="640" height="152"/></div>
+        <div style="text-align: center; margin: 0 0 2rem;"><img src="images/m/13.png" width="307" height="85"/></div>
+    </section>
+    <section class="g-sect-act">
+        <div style="text-align: center"><img src="images/m/31.png" width="361" height="132"/></div>
+        <div class="m-content">
+            <div><img src="images/m/32.png" width="420" height="41"></div>
+            <div><img src="images/m/33.png" width="528" height="41"></div>
+            <div><img src="images/m/34.png" width="468" height="41"></div>
+            <div><img src="images/m/35.png" width="506" height="41"></div>
+            <div><img src="images/m/36.png" width="511" height="41"></div>
+            <div><img src="images/m/37.png" width="516" height="41"></div>
+            <div><img src="images/m/38.png" width="516" height="41"></div>
+            <div><img src="images/m/39.png" width="516" height="41"></div>
+            <div style="text-align: center; font-size: 3rem; color: #7b4f11;">......</div>
+        </div>
+    </section>
+    <section class="g-sect-onestep">
+        <div><img src="images/m/14.png" width="367" height="115"/></div>
+        <div><img src="images/m/15.png" width="454" height="72"/></div>
+        <div><img src="images/m/16.png" width="454" height="72"/></div>
+        <div><img src="images/m/17.png" width="466" height="76"/></div>
+        <div><img src="images/m/18.png" width="454" height="72"/></div>
+        <div><img src="images/m/19.png" width="454" height="72"/></div>
+        <div><img src="images/m/20.png" width="454" height="72"/></div>
+        <div><img src="images/m/21.png" width="454" height="72"/></div>
+        <div><img src="images/m/22.png" width="454" height="72"/></div>
+    </section>
+    <section>
+        <!--<div style="text-align: center;"><img src="images/m/23.png" width="565" height="895"></div>-->
+    </section>
+    <section class="g-sect-order">
+        <h1><span>立即预约，获取你的专属留学全方案！</span></h1>
+        <div class="m-order-input">
+            <div><input type="text" id="uname2" name="uname2" placeholder="姓名" title="姓名" required/></div>
+            <div><input type="text" id="umobile2" name="umobile2" placeholder="手机" title="手机" required/></div>
+            <div><input type="text" id="ctry2" name="ctry2" placeholder="意向国家" title="意向国家"/></div>
+        </div>
+        <div class="u-btn" id="ajax_submit_form2" data-title="2018新春教育展-M-底">点击预约，即送《海外留学全指南》</div>
+        <div class="u-note">华樱承诺：将对您的个人信息严格保密。</div>
+    </section>
+</article>
+
+<script src="js/jquery-1.10.2.min.js"></script>
+<script src="./hammer.min.js"></script>
+<script>
+    $(function () {
+        $('#ajax_submit_form').click(function () {
+            var dataArr = {
+                uTitle: $(this).attr('data-title'),
+                uName: $("#uname").val(),
+                uMobile: $("#umobile").val(),
+                Wt_guojia: $("#ctry").val(),
+
+                uSex: '',
+                uPhone: '',
+                uQQ: '',
+                uEmail: '',
+                uCity: '',
+                Cr_xueli: '',
+                Wt_xueli: '',
+                Cr_yusuan: '',
+                Wt_shijian: '',
+                Yx_guojia: '',
+                Cr_xuexiao: '',
+                Wt_xuexiao: '',
+                Cr_zhuanye: '',
+                Wt_zhuanye: '',
+                uIelts: '',
+                uToefl: '',
+                uSat: '',
+                uGmat: '',
+                uGre: '',
+                uJtest: '',
+                Wt_more: '',
+                uGrade: '',
+                uWechat: '',
+                uOther: '',
+                uOther_check: '',
+                SourceLink: window.location.href,
+                Source: '华樱官网'
+            };
+            if (!dataArr.uName) {
+                alert('请填写姓名！');
+                return false;
+            }
+            if (!dataArr.uMobile) {
+                alert('请填写电话！');
+                return false;
+            }
+
+            $.ajax({
+                url: "/Webhandler/2016_02_19_OverallData.ashx?t=send",
+                type: "post",
+                async: true,
+                data: dataArr,
+                success: function (e) {
+                    alert(e)
+                },
+                error: function (jqXHR) {
+                }
+            });
+        });
+        $('#ajax_submit_form2').click(function () {
+            var dataArr = {
+                uTitle: $(this).attr('data-title'),
+                uName: $("#uname2").val(),
+                uMobile: $("#umobile2").val(),
+                Wt_guojia: $("#ctry2").val(),
+
+                uSex: '',
+                uPhone: '',
+                uQQ: '',
+                uEmail: '',
+                uCity: '',
+                Cr_xueli: '',
+                Wt_xueli: '',
+                Cr_yusuan: '',
+                Wt_shijian: '',
+                Yx_guojia: '',
+                Cr_xuexiao: '',
+                Wt_xuexiao: '',
+                Cr_zhuanye: '',
+                Wt_zhuanye: '',
+                uIelts: '',
+                uToefl: '',
+                uSat: '',
+                uGmat: '',
+                uGre: '',
+                uJtest: '',
+                Wt_more: '',
+                uGrade: '',
+                uWechat: '',
+                uOther: '',
+                uOther_check: '',
+                SourceLink: window.location.href,
+                Source: '华樱官网'
+            };
+            if (!dataArr.uName) {
+                alert('请填写姓名！');
+                return false;
+            }
+            if (!dataArr.uMobile) {
+                alert('请填写电话！');
+                return false;
+            }
+
+            $.ajax({
+                url: "/Webhandler/2016_02_19_OverallData.ashx?t=send",
+                type: "post",
+                async: true,
+                data: dataArr,
+                success: function (e) {
+                    alert(e)
+                },
+                error: function (jqXHR) {
+                }
+            });
+        });
+    });
+</script>
+<script type='text/javascript'>
+    (function(m, ei, q, i, a, j, s) {
+        m[i] = m[i] || function() {
+            (m[i].a = m[i].a || []).push(arguments)
+        };
+        j = ei.createElement(q),
+            s = ei.getElementsByTagName(q)[0];
+        j.async = true;
+        j.charset = 'UTF-8';
+        j.src = 'https://static.meiqia.com/dist/meiqia.js?_=t';
+        s.parentNode.insertBefore(j, s);
+    })(window, document, 'script', '_MEIQIA');
+    _MEIQIA('entId', 23423);
+    //_MEIQIA('withoutBtn');
+</script>
+</body>
+</html>

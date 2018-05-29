@@ -1,0 +1,10 @@
+body{
+    font-family: "Microsoft YaHei",Arial,Helvetica,sans-serif,"宋体";
+    background: url("../images/bg.png") no-repeat center top #82bf34;
+    background-size: 100%;
+}
+.container {
+    max-width: 1020px;
+}
+.g-reg{
+}
