@@ -860,3 +860,51 @@ h5 {
   cursor: pointer;
 }
 /* <-- 底部弹框*/
+
+
+/* 优惠券样式 开始 */
+.coupon{position:relative;background:#d51d27;color:#fff;width:100%;height:95px;line-height:25px;overflow:hidden;margin-top:15px;}
+.coupon-diabled{background:#c3c3c3;color:#666;}
+.coupon:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
+.coupon-money .sum{font-size:25px;}
+.coupon-left{float:left;text-align:left;width:60%;font-size:12px;background:url(./circle-border-left.png) left center no-repeat;}
+.coupon-right{float:right;text-align: center;width:40%;font-size:14px;background:url(./circle-border-right.png) right center no-repeat;}
+.coupon-inner{padding:10px 15px;height:75px;position: relative;}
+.coupon-right .coupon-inner{border-left:2px dashed rgba(255,255,255,.5);}
+.coupon-money,.coupon-time{margin-top:12px;}
+.coupon-circle{display:inline-block;width:16px;height:16px;background:#fff;position: absolute;left:-9px;border-radius:50%}
+.coupon-circle.top{top:-8px;}
+.coupon-circle.bottom{bottom:-8px;}
+.coupon-light{position:absolute;top:20px;left:20%;height:150px;width:100%;background:rgba(255,255,255,.2);transform: rotate(-30deg);-webkit-transform: rotate(-30deg);-moz-transform: rotate(-30deg);}
+
+
+.stamp {width: 387px;height: 140px;padding: 0 10px;position: relative;overflow: hidden;}
+.stamp:before {content: '';position: absolute;top:0;bottom:0;left:10px;right:10px;z-index: -1;}
+.stamp:after {content: '';position: absolute;left: 10px;top: 10px;right: 10px;bottom: 10px;box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.5);z-index: -2;}
+.stamp i{position: absolute;left: 20%;top: 45px;height: 190px;width: 390px;background-color: rgba(255,255,255,.15);transform: rotate(-30deg);}
+.stamp .par{float: left;padding: 16px 15px;width: 220px;border-right:2px dashed rgba(255,255,255,.3);text-align: left;}
+.stamp .par p{color:#fff;}
+.stamp .par span{font-size: 50px;color:#fff;margin-right: 5px;}
+.stamp .par .sign{font-size: 34px;}
+.stamp .par sub{position: relative;top:-5px;color:rgba(255,255,255,.8);}
+.stamp .copy{display: inline-block;padding:21px 14px;width:100px;vertical-align: text-bottom;font-size: 30px;color:rgb(255,255,255);}
+.stamp .copy p{font-size: 16px;margin-top: 15px;}
+
+.stamp01{background: #F39B00;background: radial-gradient(rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0) 5px, #F39B00 5px);background-size: 15px 15px;background-position: 9px 3px;}
+.stamp01:before{background-color:#F39B00;}
+
+.stamp02{background: #D24161;background: radial-gradient(transparent 0, transparent 5px, #D24161 5px);background-size: 15px 15px;background-position: 9px 3px;}
+.stamp02:before{background-color:#D24161;}
+
+.stamp03{background: #7EAB1E;background: radial-gradient(transparent 0, transparent 5px, #7EAB1E 5px);background-size: 15px 15px;background-position: 9px 3px;}
+.stamp03:before{background-color:#7EAB1E;}
+.stamp03 .copy{padding: 10px 6px 10px 12px;font-size: 24px;}
+.stamp03 .copy p{font-size: 14px;margin-top: 5px;margin-bottom: 8px;}
+.stamp03 .copy a{background-color:#fff;color:#333;font-size: 14px;text-decoration:none;padding:5px 10px;border-radius:3px;display: block;}
+
+.stamp04{width: 390px;background: #50ADD3;background: radial-gradient(rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0) 4px, #50ADD3 4px);background-size: 12px 8px;background-position: -5px 10px;}
+.stamp04:before{background-color:#50ADD3;left: 5px;right: 5px;}
+.stamp04 .copy{padding: 10px 6px 10px 12px;font-size: 24px;}
+.stamp04 .copy p{font-size: 14px;margin-top: 5px;margin-bottom: 8px;}
+.stamp04 .copy a{background-color:#fff;color:#333;font-size: 14px;text-decoration:none;padding:5px 10px;border-radius:3px;display: block;}
+/* 优惠券样式 结束 */
