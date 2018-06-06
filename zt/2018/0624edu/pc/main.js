@@ -73,6 +73,14 @@ $(function () {
         })
     });
 
+
+    $(".m-coupon ul li").each(function (i) {
+        $(this).hover(function () {
+            $(".m-coupon li").eq(i).addClass("active").siblings(".m-coupon li").removeClass("active");
+            $('.m-coupon .m-coupon-content').eq(i).removeClass("d-none").siblings('.m-coupon .m-coupon-content').addClass("d-none");
+        })
+    });
+
     $(".m-fixed .u-close-fixed-form").on('click', function () {
         $(".g-pop-bottom").animate({"left": "-100%"}, function () {
             $(".g-left-fix").animate({"left": "0"})
